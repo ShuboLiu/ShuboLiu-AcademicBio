@@ -97,10 +97,10 @@ address = {street = "127 Youyi West Street", city = "Xi'an", region = "Shannxi",
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "34.24357.4275", longitude = "108.9086273"}
+coordinates = {latitude = "34.244706", longitude = "108.906000"}
 
 # Directions for visitors to locate you.
-#directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Floor 13, Innovation Building B"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

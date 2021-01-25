@@ -13,7 +13,7 @@ organizations:
 - name: Queen Mary University of London
   url: https://www.qmul.ac.uk/
 - name: Northwestern Polytechnical University 
-  url: https://www.en.nwpu.edu.cn/
+  url: http://en.nwpu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -22,36 +22,36 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Artificial Intelligence
 - Computational Vision
-- Robotics and their Communication
+- Robotic Swarm and their Communication
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Pattern Recognition and Machine Learning
     institution: Stanford University
-    year: 2021-
+    year: 2021-Now
 
   - course: BSc in Material Science and Engineering
     institution: Massachusetts Institute of Technology
-    year: 207-2021
+    year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
+# - icon: envelope
+#   icon_pack: fas
+#   link: '/#contact'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #  icon_pack: fas
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/ShuboLiu
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/
@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -74,4 +74,4 @@ Shubo Liu is a PhD student of artificial intelligence at National Engineering La
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
