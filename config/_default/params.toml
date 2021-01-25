@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Academic Biography of Shubo Liu, a PhD student in NPU/QMUL"
 
 ############################
 ## Site Features
@@ -124,7 +124,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "LiuShubo.JPG"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = ""
