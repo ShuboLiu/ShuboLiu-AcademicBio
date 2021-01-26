@@ -65,11 +65,13 @@ experience:
         * Statistics user experience analysis
 
   - title: Department Leader
-    company: China Collegiate Formula Race Car Challenge
+    company: Transmission Group, AoXiang Racing Team
     #company_url: ''
     location: Xiang Yang, Hubei
     date_start: '2017-10-01'
     date_end: '2018-12-15'
-    description: 
-      "Coordinated a sub-team of four to design, prototype and test a single-seat, open-wheel, open-cockpit race car with excellent acceleration/deceleration performance and maneuverability"
+    description: |2-
+      Coordinated a team of four to design, prototype and test a single-seat, open-wheel, open-cockpit race car with excellent acceleration/deceleration performance and maneuverability
+      
+      * Rewarded Third Prize in Formula SAE of China 2018
 ---
