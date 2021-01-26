@@ -21,18 +21,18 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Vision
+- Computer Vision
 - Robotic Swarm and their Communication
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Pattern Recognition and Machine Learning
-    institution: Stanford University
+    institution: Northwestern Polytechnical University \ University of Adeleide
     year: 2021-Now
 
   - course: BSc in Material Science and Engineering
-    institution: Massachusetts Institute of Technology
+    institution: Queen Mary University of London \ Northwestern Polytechnical University 
     year: 2017-2021
 
 # Social/Academic Networking
@@ -72,6 +72,6 @@ highlight_name: false
 
 Shubo Liu is a PhD student of artificial intelligence at National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology, China. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic group, which develops 5G aerial robots, systems of automatic airport, and aerial robotic swarm.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

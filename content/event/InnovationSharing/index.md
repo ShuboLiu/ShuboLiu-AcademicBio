@@ -11,7 +11,7 @@ address:
   region: Shannxi
   postcode: '710129'
   country: China
-summary:
+summary: Sharing Session on Innovation and Entrepreneurship Experience
 abstract: "Shubo Liu showed everyone the <Micro 5G UAV and its Cloud System> project that he hosted, which won the 2020 'Challenge Cup' provincial silver award and other innovation and entrepreneurship competition awards. Subsequently, Liu Shubo introduced his understanding of innovation and entrepreneurship based on his own experience. He believes that college students' innovation and entrepreneurship is a market- and application-oriented way of thinking that drives innovation with entrepreneurship and uses the market to force technology."
 
 # Talk start and end times.

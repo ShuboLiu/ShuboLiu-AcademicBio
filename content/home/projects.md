@@ -27,6 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Aerial Robotics
+    tag: Aerial Robotics
   - name: Deep Learning
     tag: Deep Learning
   - name: Other
