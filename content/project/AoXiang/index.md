@@ -40,5 +40,5 @@ image:
 # slides: ""
 ---
 
-AoXiang Racing Team, NPU was established in 2015 and adapted from the Energy-saving Vehicle Base of Northwestern Polytechnical University.
+AoXiang Racing Team, NPU was established in 2015 and adapted from the Energy-saving Vehicle Base of Northwestern Polytechnical University.   
 
