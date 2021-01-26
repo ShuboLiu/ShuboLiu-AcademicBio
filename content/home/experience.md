@@ -60,10 +60,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Coordinated cross-departmental collaboration following divide-and-conquer strategy
-        * Organized numerous meetings to drive brainstorming, alignment and troubleshooting
-        * Spearheaded the liaison with external stakeholders and secured external financial support
-        * Significantly bolstered technical leadership and interpersonal skills
+        * Interface design
+        * Function design
+        * Statistics user experience analysis
 
   - title: Department Leader
     company: China Collegiate Formula Race Car Challenge
