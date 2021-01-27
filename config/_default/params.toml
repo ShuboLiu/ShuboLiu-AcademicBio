@@ -100,7 +100,7 @@ address = {street = "127 Youyi West Street", city = "Xi'an", region = "Shannxi",
 coordinates = {latitude = "34.244706", longitude = "108.906000"}
 
 # Directions for visitors to locate you.
-directions = "Floor 13, Innovation Building B"
+directions = "Floor 13, Innovation Building B, Northwestern Polytechnical Univeristy"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

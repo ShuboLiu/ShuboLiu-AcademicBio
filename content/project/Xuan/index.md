@@ -41,3 +41,5 @@ image:
 ---
 
 5G-UAV Xuan Q2 is a micro 5G drone independently researched and developed by NIUVS team. It is mainly oriented to the UAV indoor flight scene. After carrying the corresponding mission load, it can achieve ultra-long-distance control of more than 1000 kilometers and rapid collection of forward intelligence, which can be used indoors. Various scenarios such as security patrols, indoor search and rescue of fire scenes, and equipment inspections in small environments (tube, tunnel, etc.).
+
+[![](https://raw.githubusercontent.com/ShuboLiu/ShuboLiu-AcademicBio/master/content/project/example/LOGO.png "Official Website")](http://www.5guav.com.cn)

@@ -45,3 +45,5 @@ image:
 5G-UAV · H7 was first released at the 4th International Innovation and Entrepreneurship Expo (IIEE) in December 2019, and attracted the attention of many representatives participating in the conference. The project was reported to the then Chinese Secretary of the Communist Youth League Secretariat and Chairman of the China Youth Federation, and was interviewed and reported by the &lt;China Youth Daily&gt;, &lt;People’s Daily&gt;, Xinhua.net and other national media.
 
 ![Team member interviewd by journalist from Xinhua.com](https://raw.githubusercontent.com/ShuboLiu/ShuboLiu-AcademicBio/master/content/project/Peng/IIEE-Xinhua.jpg)
+
+[![](https://raw.githubusercontent.com/ShuboLiu/ShuboLiu-AcademicBio/master/content/project/example/LOGO.png "Official Website")](http://www.5guav.com.cn)

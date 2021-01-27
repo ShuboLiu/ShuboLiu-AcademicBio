@@ -1,12 +1,12 @@
 ---
-title: Welcome to Shubo Liu's AcademicProfolio Page
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: NIUVS Open Source Scheme
+subtitle: "NIUVS Open Source Scheme: 5G-UVS project is now available on Gitee.com!"
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: "NIUVS Open Source Scheme: 5G-UVS project is now available on Gitee.com! One may fork or git it from gitee,com freely"
 
 # Link this post with a project
-projects: []
+projects: [5G-UVS Project]
 
 # Date published
 date: "2020-12-13T00:00:00Z"
@@ -23,83 +23,73 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ''
   focal_point: ""
   placement: 2
   preview_only: false
 
 authors:
 - admin
-- 吳恩達
+- Hongsheng Zhang
 
 tags:
-- Academic
-- 开源
+- Aerial Robotics
+- 5G-UVS Project
+- NIUVS Team
 
 categories:
-- Demo
-- 教程
+
 ---
 
-## Overview
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+ Welcome to NIUVS (Neted Intelligent Unmanned Vehicle System) Open Source Scheme. This is 5G Unmanned Aerial System Program!
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+ NIUVS Open Sources Scheme focus on the reserch and development of neted unmanned system, intending to offer an open sources platform to develop unmaned system technology. We hope to Let Unmanned Vehicle Benifits More.
 
-## Get Started
+ 5G-UAS project tends to develop Neted Aerial Vehicle that can be remotely controled via 5G network. Based on which, one could develop all kind of intelligent industial applications.
+ 
+ 
+ 
+## What will you need to make 5G-UAS
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/guide/update/) and [Release Notes](https://wowchemy.com/updates/)
+1. A drone that contain frame, motors, ESCs, rotors and other optional devices that you may need;
 
-## Crowd-funded open-source software
+2. Pilot Board that runs PX4 flight controal systems;
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+3. An onboard computer with Linux4 or above (Nvidia TX2, Nvidia Jetson Nano, Raspberry Pi 3B/3B+/4 or other) Tip: The onboard computer must be arm64-based
 
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/plans/)
+## How to install
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/plans/) awesome rewards and extra features 🦄✨**
+1. Setup your operation system on your onboard computer, Ubuntu 18.04 is recommended (For Raspberry Pi computer, Raspberry Pi OS will be recommended)
 
-## Ecosystem
+2. Setup the internet connection of your onboard computer
 
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
+3. Open terminal and 
 
-## Inspiration
 
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
+```
+git clone https://gitee.com/liushubo99/niuvs.git
+cd niuvs
+chmod u+x
+sudo ./uav_install.sh
+```
 
-## Features
+4. Connect you PX4 Pilot board with a Windows host computer via USB
 
-- **Page builder** - Create *anything* with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
+5. Download XXX file to the Windows host computer and unzip. Open ```Beacon.exe```, connect the pilot board by press the ```Connect``` button upright and flash ```./Parameter/YourPilotDevices.param``` into your PX4 pilot board
 
-## Themes
+6. Connect your onboard computer with PX4 Pilot board via USB.
 
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
+7. Open ```Beacon.exe``` on your Ground Control Station. Enable the Joysticker. Choose ```UDP``` item and press ```Connect``` button. Keep the listening port default ```14550```.
 
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
+8. Control the aerial vehicle as you like, enjoy!
 
-## License
+## Contributer
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
+Shubo Liu, contact shubo.liu@se17.qmul.ac.uk
 
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
+Jack Honson, contact JackHonsen@foxmail.com
+
+## Acknowledge
+Thank to the supporting of Robotic Innovation Lab, Training Centre for Engineering Practices, NPU.
+

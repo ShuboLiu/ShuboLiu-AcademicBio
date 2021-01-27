@@ -36,4 +36,6 @@ NIUVS Open Sources Scheme is proposed by NIUVS (Northwest Intelligent Unmanned V
 
 5G-UAS project tends to develop Neted Aerial Vehicle that can be remotely controled via 5G (5th generation mobile communication) network. Based on which, one could develop all kind of 5G based intelligent industial applications.
 
-Office website for 5G-UVS Project: http://www.5guav.com.cn
+Office website for 5G-UVS Project: [5guav.com.cn](http://www.5guav.com.cn)
+
+[![](https://raw.githubusercontent.com/ShuboLiu/ShuboLiu-AcademicBio/master/content/project/example/LOGO.png "Official Website")](http://www.5guav.com.cn)
