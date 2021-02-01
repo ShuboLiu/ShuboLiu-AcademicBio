@@ -31,7 +31,7 @@ education:
     institution: Northwestern Polytechnical University \ University of Adeleide
     year: 2021-Now
 
-  - course: BSc in Material Science and Engineering
+  - course: BEng in Material Science and Engineering
     institution: Queen Mary University of London \ Northwestern Polytechnical University 
     year: 2017-2021
 
@@ -40,9 +40,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '/#contact'
+- icon: envelope
+  icon_pack: fas
+  link: '/#contact'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
