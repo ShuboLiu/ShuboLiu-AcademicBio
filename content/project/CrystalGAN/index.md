@@ -29,7 +29,7 @@ image:
 
 url_code: "https://github.com/ShuboLiu/NbO-Crystal-GAN"
 url_pdf: "project/CrystalGAN/2017303469.pdf"
-#url_slides: ""
+url_slides: "project/CrystalGAN/20211226.pdf"
 #url_video: ""
 
 # Slides (optional).

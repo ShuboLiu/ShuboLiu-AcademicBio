@@ -19,10 +19,10 @@ image:
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-#url_code: ""
+url_code: "https://gitee.com/liushubo99/niuvs"
 #url_pdf: ""
 #url_slides: ""
-#url_video: ""
+url_video: "https://5guav-1257112992.cos.ap-chengdu.myqcloud.com/video_en_zh.mp4"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
