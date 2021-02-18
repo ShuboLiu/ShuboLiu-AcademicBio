@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "GAN model for Crystal Structure: A new way of new material discovery"
-summary: ""
+title: "GAN model for Crystal Structure Prediction"
+summary: "A new way of new material (structure) discovery"
 authors: [Shubo Liu]
 tags: [Deep Learning, GAN]
 categories: []
