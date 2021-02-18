@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Pattern Recognition and Machine Learning
+  - course: PhD in Computer Science (Pattern Recognition and Machine Learning)
     institution: Northwestern Polytechnical University \ University of Adeleide
     year: 2021-Now
 
@@ -70,7 +70,7 @@ email: ""
 highlight_name: false
 ---
 
-Shubo Liu is a PhD student of artificial intelligence at National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology, China. He is supervised by [Chunhua Shen](https://cshen.github.io/) (University of Adelaide) and [Peng Wang](https://wangpengnorman.github.io/) (Northwestern Polytechnical University) His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic group, which develops 5G aerial robots, systems of automatic airport, and aerial robotic swarm.
+Shubo Liu is a PhD student of artificial intelligence at National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology, China. He is supervised by [Chunhua Shen](https://cshen.github.io/) (University of Adelaide) and [Peng Wang](https://wangpengnorman.github.io/) (Northwestern Polytechnical University). His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic group, which develops 5G aerial robots, systems of automatic airport, and aerial robotic swarm.
 
 
 
