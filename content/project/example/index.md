@@ -11,7 +11,7 @@ date: "2020-03-20T00:00:00Z"
 #external_link: "http://www.5guav.com.cn"
 
 image:
-  caption: NIUVS Team Photo
+  caption: NIUVS Team Portrait
   focal_point: Smart
 
 # links:
