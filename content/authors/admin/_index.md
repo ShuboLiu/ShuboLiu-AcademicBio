@@ -6,7 +6,7 @@ title: Shubo Liu
 superuser: true
 
 # Role/position/tagline
-role: PhD Student of Artificial Intelligence
+role: PhD Student of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -16,7 +16,7 @@ organizations:
   url: http://en.nwpu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Hi, there! I am a machine learning and computer vision enthusiast and researcher. My focus is on computer vision and robotic swarm. I want to change the world by innovation. 
 
 # Interests to show in About widget
 interests:
@@ -67,10 +67,10 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: True
 ---
 
-Shubo Liu is a PhD student of artificial intelligence at National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology, China. He is supervised by [Chunhua Shen](https://cshen.github.io/) (University of Adelaide) and [Peng Wang](https://wangpengnorman.github.io/) (Northwestern Polytechnical University). His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic group, which develops 5G aerial robots, systems of automatic airport, and aerial robotic swarm.
+Shubo Liu is a PhD student of artificial intelligence at *National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology, China*. He is supervised by [Chunhua Shen](https://cshen.github.io/) (University of Adelaide) and [Peng Wang](https://wangpengnorman.github.io/) (Northwestern Polytechnical University). His research interests include computer vision, robotic swarm and programmable matter. He leads a Robotic group, which develops 5G aerial robots, systems of automatic airport, and aerial robotic swarm.
 
 
 
